@@ -1,5 +1,5 @@
 def hello():
-    print('Hello from function')
+    print('Hi from function')
 
 
 func = hello     #  присваиваем переменной func функцию hello
